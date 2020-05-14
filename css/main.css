@@ -476,3 +476,7 @@ img {
 @media (max-height: 330px) {
   #header-home .header-content h1 {
     font-size: 2rem; } }
+
+    #bogdan {
+      display: none;
+    }
